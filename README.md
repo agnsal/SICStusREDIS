@@ -1,2 +1,2 @@
 # SICStusREDIS
-A library to use Redis technology in SICStus Prolog programmes.
+A library that allows to use Redis technology in SICStus Prolog programmes.
